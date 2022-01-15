@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-01-15T05:28:29.159Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 Edg/97.0.1072.55" etag="hI1qzUOUeYQ_KUOau2UG" version="16.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-15T06:07:15.460Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 Edg/97.0.1072.55" etag="BbvSZQkTOi51cg7NaFRs" version="16.2.7" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
-    <mxGraphModel dx="2926" dy="1150" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="1839" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -208,10 +208,10 @@
         <mxCell id="yKHqxRb7ImUEPN96YDjU-62" value="&lt;span&gt;Integrate&lt;br&gt;and Dump&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="yKHqxRb7ImUEPN96YDjU-83">
           <mxGeometry x="410" y="195" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="yKHqxRb7ImUEPN96YDjU-66" value="$$R_{QBOC-a}(\tau)$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="yKHqxRb7ImUEPN96YDjU-83">
+        <mxCell id="yKHqxRb7ImUEPN96YDjU-66" value="$$R_{QPSK-a}(\tau)$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="yKHqxRb7ImUEPN96YDjU-83">
           <mxGeometry x="460" y="145" width="140" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="yKHqxRb7ImUEPN96YDjU-67" value="$$R_{QBOC-b}(\tau)$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="yKHqxRb7ImUEPN96YDjU-83">
+        <mxCell id="yKHqxRb7ImUEPN96YDjU-67" value="$$R_{QPSK-b}(\tau)$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="yKHqxRb7ImUEPN96YDjU-83">
           <mxGeometry x="460" y="195" width="140" height="20" as="geometry" />
         </mxCell>
         <mxCell id="yKHqxRb7ImUEPN96YDjU-68" value="$${\widehat{f}}_{code}$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="yKHqxRb7ImUEPN96YDjU-83">
